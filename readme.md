@@ -4,7 +4,7 @@
 
 - Browse [Active Projects](https://github.com/boisebrigade/project-ideas/projects/1)
 
-#### Want to start an Open Austin project?
+#### Want to start a Boise Brigade project?
 
 [Share your idea with us!](https://github.com/boisebrigade/project-ideas/issues/new)
 
