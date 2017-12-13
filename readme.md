@@ -15,10 +15,10 @@
 
 Browse by type of task:
 
-- [Design](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adesign&type=Issues)
-- [Dev](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adev&type=Issues)
-- [Data Wrangling](https://github.com/search?o=desc&q=org%3Aopen-austin+is%3Aopen+label%3A%22Data+wrangling%22&s=created&type=Issues&utf8=✓)
-- [Programming](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Aprogramming&type=Issues)
+- [Design](https://github.com/search?utf8=✓&q=org%3Aboise-brigade+is%3Aopen+label%3Adesign&type=Issues)
+- [Dev](https://github.com/search?utf8=✓&q=org%3Aboise-brigade+is%3Aopen+label%3Adev&type=Issues)
+- [Data Wrangling](https://github.com/search?o=desc&q=org%3Aboise-brigade+is%3Aopen+label%3A%22Data+wrangling%22&s=created&type=Issues&utf8=✓)
+- [Programming](https://github.com/search?utf8=✓&q=org%3Aboise-brigade+is%3Aopen+label%3Aprogramming&type=Issues)
 
 ## About the Boise Brigade Team
 
@@ -51,7 +51,5 @@ If you don't see the idea you have in mind, [add a new one](https://github.com/b
 ### Next Steps
 
 * Please make a status update to your issues at least once a month to keep others informed. If we don't hear from you after some time, we might assume you've moved on and will ask others to take the lead.
-
-* If nobody's talking yet, it might be that your idea needs some more fleshing out. We highly recommend thinking Code for America's [Civic Tech Canvas](https://github.com/open-austin/civic-tech-canvas) as a next step!
 
 * If you're willing to be the champion on this project, you should let one of our [project leads](mailto:boisebrigade@gmail.com) know. GitHub is the platform we're using to collect and vet ideas and then convert them into [active projects](https://github.com/boisebrigade). Once a project becomes active, we'll help you set up a repository on the Boise Brigade GitHub organization so you can start scoping and collaborating. We'll continue to use the Issues feature on your own project repo to flag obstacles, opportunities, and answer questions about that specific project. We will then add the project repo link to your idea issue and close it, indicating your graduation from idea to an active project.
